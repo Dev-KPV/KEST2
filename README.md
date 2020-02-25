@@ -1,3 +1,3 @@
 # KEST2
-KEST 2020
-# Ait snilld
+# KEST Vor 2020
+# Lárus og Karl
