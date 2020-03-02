@@ -343,131 +343,131 @@ Default Programs > Associate a file type or protocol with a program
 
 ##### What can a user do with a limited account?
 
--   ### Með limited account þá getur þú gert allt sem þú þarft að gera í daglegu lífi
+-   Með limited account þá getur þú gert allt sem þú þarft að gera í daglegu lífi
     
 
 ##### What limitations does this type of an account have?
 
--   ### þú getur ekki búið til, eytt, skoðað eða breitt systemfiles
+-   þú getur ekki búið til, eytt, skoðað eða breitt systemfiles
     
 
 ##### What information is listed for the new account?
 
 ##### What is the advantage of having most users work within a Standard user account?
 
--   ### þá geta sem færstir búið til , eytt, skoðað og breitt systemfiles
+-   þá geta sem færstir búið til , eytt, skoðað og breitt systemfiles
     
 
 ##### What are the other options?
 
--   ### keep files
+-   keep files
     
 
 ##### When would you choose the other options?
 
--   ### Þegar þú vilt halda hvað userinn gerði en þarft að eyða usernum sjálfum
+-   Þegar þú vilt halda hvað userinn gerði en þarft að eyða usernum sjálfum
     
 
 ##### Why is it important to protect all accounts with strong passwords?
 
--   ### svo að einginn komist inn á userinn sem á ekki að komast inn á hann
+-   svo að einginn komist inn á userinn sem á ekki að komast inn á hann
     
 
 ##### Why would you create a user with Standard privileges?
 
--   ### Svo að hann geti ekki búið til , eytt, skoðað og breitt systemfiles
+-   Svo að hann geti ekki búið til , eytt, skoðað og breitt systemfiles
     
 
 ##### In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
 
--   ### Svo hann geti geimt files sem userinn gerði en ekki userinn sjálfann
+-   Svo hann geti geimt files sem userinn gerði en ekki userinn sjálfann
     
 
 ### 11.2.5.8
 
 ##### What is the current size of the virtual memory (paging file)?
 
--   ### 1920MB
+-   1920MB
     
 
 ##### What Drive [Volume Label] contains the paging file?
 
--   ### C:
+-   C:
     
 
 ##### What is the recommended paging file size for all drives?
 
--   ### 1879MB
+-   1879MB
     
 
 ##### What Drive [Volume Label] contains the paging file?
 
--   ### I:
+-   I:
     
 
 ##### Why would you ever change the default virtual memory page file settings in Windows?
 
--   ### Ef vinnsluminnið er að allocatea moving data hraðar en harði diskurinn ræður við
+-   Ef vinnsluminnið er að allocatea moving data hraðar en harði diskurinn ræður við
     
 
 ### 11.2.6.2
 
 ##### What information is listed in the Device Manager window? Why would you use it?
 
--   ### Upplýsingar um hardware tölvunnar, til að komast auðveldar að ef eitthvað virkar ekki
+-   Upplýsingar um hardware tölvunnar, til að komast auðveldar að ef eitthvað virkar ekki
     
 
 ##### Ho would you install driver software for an older device that may not be automatically recognized by the Windows operating system?
 
--   ### Leita af því á netinu og sækja í það þar
+-   Leita af því á netinu og sækja í það þar
     
 
 ##### What additional information does Driver Details provide?
 
--   ### Hvaða driver er fyrir monitorinn
+-   Hvaða driver er fyrir monitorinn
     
 
 ##### What two options do you have for updating the driver?
 
--   ### Search automaticllay for updated driver software
+-   Search automaticllay for updated driver software
     
--   ### Browse my computer for driver sofware
+-   Browse my computer for driver sofware
     
 
 ##### What does the Roll Back Driver button do?
 
--   ### aftur kallar update
+-   aftur kallar update
     
 
 ##### The Roll Back Driver can be grayed out on your computer, why would it be grayed out?
 
--   ### Þá er driverinn í góðustandi
+-   Þá er driverinn í góðustandi
     
 
 ##### What are the other available options?
 
--   ### Disable device
+-   Disable device
     
--   ### Unninstall device
+-   Unninstall device
     
 
 ### 11.3.1.11
 
 ##### What is the status of the service?
 
--   ### Running
+-   Running
     
 
 ##### Record the Windows Defender status
 
--   ### Stopped
+-   Stopped
     
 
 ### 11.3.2.7
 
 ##### What was the path you use to navigate to the Event Viewer?
 
--   ### [Console Root\Management Tools\Computer Manegement (local)\System Tools\Event Viewer]
+-   [Console Root\Management Tools\Computer Manegement (local)\System Tools\Event Viewer]
     
 
 ### 11.3.2.8
@@ -476,79 +476,79 @@ Default Programs > Associate a file type or protocol with a program
 
 ##### How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?
 
--   ### md a\b\c
+-   md a\b\c
     
 
 ##### What command would you use to verify the creation of the nested directories?
 
--   ### Keyrir md a\b\c aftur og það lætur þig vita ef allt er til
+-   Keyrir md a\b\c aftur og það lætur þig vita ef allt er til
     
 
 ##### What command did you use?
 
--   ### cls
+-   cls
     
 
 ##### What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.
 
--   ### cls
+-   cls
     
 
 ##### What is the last command?
 
--   ### cls
+-   cls
     
 
 ### 11.4.2.7
 
 ##### What is the current directory?
 
--   ### C:\Users\Larus og Karl
+-   C:\Users\Larus og Karl
     
 
 ##### Which folder are you in now?
 
--   ### ITEfolder3
+-   ITEfolder3
     
 
 ##### What command or commands did you use to create the nested folders?
 
--   ### md ITEfolder4\ITEfolder5
+-   md ITEfolder4\ITEfolder5
     
 
 ##### After issuing the cd .. command, what is your directory now?
 
--   ### C:\Users\Larus\ITEfolder3\ITEfolder4
+-   C:\Users\Larus\ITEfolder3\ITEfolder4
     
 
 ##### What would be the current directory if you issue this command at C:\Users\ITEfolder4?
 
--   ### C:\Users\Larus\ITEfolder3
+-   C:\Users\Larus\ITEfolder3
     
 
 ##### What single command would you use to delete all the files with doc2 in the filename?
 
--   ### del * doc2 *
+-   del * doc2 *
     
 
 ##### What command would you use to delete all the files in the directory?
 
--   ### del /S ITEfolder1
+-   del /S ITEfolder1
     
 
 ##### What option allows you to copy all the files and directories, including the empty directories?
 
--   ### /E
+-   /E
     
 
 ##### Were you able to delete the directory? Explain
 
--   ### Ég gat eytt möppunni
+-   Ég gat eytt möppunni
     
 
 ##### What are the advantages of using CLI vs. GUI?
 
--   ### Það er hægt að geyra mikið meira mun aupveldara í CLI en það er mun auðveldara að skilja og sjá hvað er verið að gera með GUI
+-   Það er hægt að geyra mikið meira mun aupveldara í CLI en það er mun auðveldara að skilja og sjá hvað er verið að gera með GUI
     
 
 ### 11.4.3.2
