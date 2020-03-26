@@ -469,7 +469,7 @@ Default Programs > Associate a file type or protocol with a program
 
 -   [Console Root\Management Tools\Computer Manegement (local)\System Tools\Event Viewer]
     
-
+### 11.3.2.8
 * Under the System Summary heading locate and list the following
   * processor
     * intel core i7 6700HQ
