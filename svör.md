@@ -551,11 +551,46 @@ Default Programs > Associate a file type or protocol with a program
 -   Það er hægt að geyra mikið meira mun aupveldara í CLI en það er mun auðveldara að skilja og sjá hvað er verið að gera með GUI
     
 
-### 11.4.3.2
+### 11.4.3.2 Lab - Disk CLI Commands
 
-### 11.4.4.2
+* What is the option to fix errors on the drive
+  * type chkdsk /F
+* What is the option to locate bad sectors and recover readable information
+  * type chkdsk /R
+* What happened? Explain
+  * when you type the command it will exam all the files in the c drive
+* What is the file system of the drive
+  * it will check the system when it restarts
+* What option is used to determine the maximum number of bytes that the volume can be shrink by
+  * it depends on how much space you have on your disk
 
-### 11.4.5.3
+### [](https://github.com/agustbirgir/kest_2/blob/master/windows_verkefni.md#11442-lab---task-and-system-cli-commands)11.4.4.2 Lab - Task and System CLI Commands
+
+* What command would you use to display the results of tasklist one page at a time?
+  * tasklist | more
+  * What is the option to list the modules that are associated with a task?
+    * /M
+  * What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll.
+    * tasklist /M oleaut32.dll og nikkur dæmi eru: svchost.exe, SkypeApp.exe og tasklist.exe
+  * What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
+    * tasklist /fi "cputime gt 01:00:00" eða tasklist /fi "cputime gt 00:40:00"
+  * What option would you use if you only wanted to scan the integrity of all the protected system files?
+    * sfc /VERIFYONLY
+  * Enter the command to log off your computer. Record the command below.
+    * shutdown /l
+  * Log back into the computer and shut it down in 120 seconds using the command line
+    * shutdown /s /t 120 /c
+  * Record the command below. What warning message did you see?
+    * you are about to get signed out
+  * What command would you use to abort the shutdown?
+    * shutdown /a
+
+### [](https://github.com/agustbirgir/kest_2/blob/master/windows_verkefni.md#11453-lab---other-useful-commands)11.4.5.3 Lab - Other Useful Commands
+
+* When does the password expire?
+* 30.3.2020
+* What is the local drive letter assigned to the connected resource?
+* "c"
 
 ### 11.5.2.4
 
