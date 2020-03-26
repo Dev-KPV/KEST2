@@ -470,7 +470,42 @@ Default Programs > Associate a file type or protocol with a program
 -   [Console Root\Management Tools\Computer Manegement (local)\System Tools\Event Viewer]
     
 
-### 11.3.2.8
+* Under the System Summary heading locate and list the following
+  * processor
+    * intel core i7 6700HQ
+  * BIOS/version date
+    * lenovo CDCN53 WW 19-sep-16
+  * Total Physical Memory
+    * 15.8 GB
+* Under the Hardware Resources heading, locate and list the following:
+  * DMA channels and the device using the resources.
+    * biða
+* Under the Components heading locate and list the following
+  * Adapter Description:
+    * NVidia geforce 960 M
+  * Adapter RAM:
+    * 1,048,576 bytes
+* Under the Software Environment heading, where would you find the applications that automatically load when the computer boots?
+  * in startup programs
+* What are the startup options
+  * normal startup, diagnostic startup and selective start up
+* Can you enable and disable services at this tab
+  * yes there's a tab for it
+* What can you do in this tab
+  * this is a shortcut for changeing user account, knowing about your computer and more
+* What does this tool report
+  * give all information about the pc
+* What information is listed on this page
+* gives info about device, driver and directx features
+* What information is listed on this page
+* it gives info about sound drivers and sound devices'
+* What information is listed on this page
+  * the device name of inputs like mouse and keyboard
+* What information is listed on these extra tabs
+  * there is a tab called render and it lists info about the driver and device
+* Why would it be beneficial to turn off a service in the system configuration
+  * minnar álag á örgjafann
+* reduce the ram
 
 ### 11.4.1.5
 
